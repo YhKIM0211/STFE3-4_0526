@@ -1,6 +1,6 @@
 # ST-FE 3,4기 조별 발표회 (05/26)
 
-https://docs.google.com/presentation/d/13AydXzKjrk-l_mFR3Hgr3CJ0b_kxotL-SVhiutPQ09Q/edit?usp=sharing
+https://drive.google.com/file/d/1lnRp4pNTm8rKfimlgizg059JdxLRVqm_/view?usp=sharing
 
 ## 생성
 1. Fork
